@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/nsbhasin/.android/build-cache/d1387952eaf2a3141a5aed8d4b422b7ae9ff0f3d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/nsbhasin/AndroidStudioProjects/TicTacToe/app/build/intermediates/pre-dexed/debug/classes_f1ecdf28a2b30f11932d4eb9e2a885c1fbcfbd8f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsbhasin/AndroidStudioProjects/TicTacToe/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="40113f2132e8bf2d00ba9127a01ce005f779d15c">
+        <dex dex="/Users/nsbhasin/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a395bce1af2a851d098c3993f6b64a1edb45b691/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nsbhasin/.android/build-cache/19f3c998628ca71abf0c40a6705d2c01a7324e3a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/nsbhasin/AndroidStudioProjects/TicTacToe/app/build/intermediates/pre-dexed/debug/classes_7f363645e6a485ce778e40952200d471a9ef7822.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nsbhasin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/nsbhasin/AndroidStudioProjects/TicTacToe/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_bb5947aab9b0568a735d0eb7cf03587c09fa9115.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nsbhasin/.android/build-cache/c4350ecfe192182d839c84a8cfa2f6d0a89a6837/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/nsbhasin/AndroidStudioProjects/TicTacToe/app/build/intermediates/pre-dexed/debug/classes_2d2d642ec5de5854421f41ae98247f68dfc6567b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nsbhasin/.android/build-cache/72a615e948ed1cbd55a51c71ba725759121bf774/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/nsbhasin/AndroidStudioProjects/TicTacToe/app/build/intermediates/pre-dexed/debug/classes_d13b44c44271792a073b932d4615c5faf999e099.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nsbhasin/.android/build-cache/48f9bbc4d60381e2e0965b88e19ff7cb7635f372/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/nsbhasin/AndroidStudioProjects/TicTacToe/app/build/intermediates/pre-dexed/debug/classes_509234b4ec9016b9ed60df52b9c713aa2061ccfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nsbhasin/.android/build-cache/c78d84be5abea4bafe8ce6f14d16daab69b5d549/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/nsbhasin/AndroidStudioProjects/TicTacToe/app/build/intermediates/pre-dexed/debug/classes_fd7fb02991319e2463f68e24c37bef7c1cd2f53e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nsbhasin/.android/build-cache/b808577d6b44fd185dbb7d5dcc73e21fdd8409ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nsbhasin/AndroidStudioProjects/TicTacToe/app/build/intermediates/pre-dexed/debug/classes_9faaeee2515cd2fa1f32f32be1e12e32dcff478c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nsbhasin/.android/build-cache/bb40518480e700e133e4634794bb25335a6bfa87/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/nsbhasin/AndroidStudioProjects/TicTacToe/app/build/intermediates/pre-dexed/debug/classes_8c4300d09039f4e97e80a5b10c07258c8605c80d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsbhasin/AndroidStudioProjects/TicTacToe/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/nsbhasin/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2720aa21f83d26fbae978334ec47c6a51fceb0fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nsbhasin/.android/build-cache/551c4ea0c3f46aad853a983dc2dc2cfd94a6acef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/nsbhasin/AndroidStudioProjects/TicTacToe/app/build/intermediates/pre-dexed/debug/classes_b175b55e3f1723aec38b28d9666ba2a0e25c9c80.jar" />
+    </item>
+
+</items>
